@@ -1,4 +1,10 @@
 Master 1txt change 3 commit
+adding txt again for confict
+This is the 3rd line of 2User
 adding txt again for conficti
 This is 3rd line
+<<<<<<< HEAD
 This is the 4th line by 1U
+=======
+This is 6th line 2U
+>>>>>>> b00367e0899fe7c3aaa1c14626de8e42ba325355
